@@ -46,7 +46,6 @@ This project simulates a food delivery app interface inspired by **Swiggy**, inc
 ## 🛠 Tech Stack
 
 - **Figma – UI/UX Design**
-- *(Future: React / Flutter / HTML/CSS — if you plan to build it)*
 
 ## 🧑‍💻 Author
 
