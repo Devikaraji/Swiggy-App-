@@ -30,7 +30,7 @@ This project simulates a food delivery app interface inspired by **Swiggy**, inc
 - Designed for mobile experience
 
 ## 📂 Screenshots
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/homePage.png)
 ![Menu Screen](screenshots/menu.png)
 ![Cart Screen](screenshots/cart.png)
 
