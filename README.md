@@ -33,8 +33,8 @@ This project simulates a food delivery app interface inspired by **Swiggy**, inc
 
 ![Home Screen](homePage.png)
 ![Food Page](FoodPage.png)
-![Account Page](screenshots/AccountPage.png)
-![Front Page](screenshots/FrontPage.png)
+![Account Page](AccountPage.png)
+![Front Page](FrontPage.png)
 
 
 ## 🚀 How to Use
